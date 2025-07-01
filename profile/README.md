@@ -3,6 +3,9 @@
 
 ---
 
+![banner](assets/banner.png)
+
+---
 ## what is this?
 
 **pid1.club** is a community for linux users, open-source contributors, and infosec learners.  
