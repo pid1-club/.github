@@ -49,7 +49,7 @@ this is the beginning.
 reach out, fork something, or open a pull request.
 
 - github: [github.com/pid1-club](https://github.com/pid1-club)  
-- soon: [https://pid1.club](https://pid1.club)
+- more coming soon~
 
 ---
 
